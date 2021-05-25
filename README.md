@@ -14,9 +14,10 @@ os exercícios usados para aprender toda a Sintaxe Básica da linguagem Java, es
 é realmente confuso então estou repostando todo o material de uma forma mais organizada.
 De qualquer forma, não vou deletar esse repositório, acho que é importante
 para mostrar a toda a comunidade que não apenas meu código melhorou, mas também outras habilidades, como rs de organização.
-Enfim ...
+Enfim ...<br />
 Develop the following menu in Java:
-Desenvolva o seguinte menu em Java 
+<br />
+Desenvolva o seguinte menu em Java:
 
 --------------
 
